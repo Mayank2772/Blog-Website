@@ -1,0 +1,32 @@
+<svg width="59" height="59" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#filter0_d_8593_1250)">
+    <path d="M29.24 49.48C42.0751 49.48 52.48 39.0751 52.48 26.24C52.48 13.4049 42.0751 3 29.24 3C16.4049 3 6 13.4049 6 26.24C6 39.0751 16.4049 49.48 29.24 49.48Z" fill="white"/>
+  </g>
+
+  <!-- Twitter X Logo -->
+  <path
+    d="M21 19L26.9 27.2L21 35H24.8L28.8 29.4L33.2 35H38L31.8 26.2L37.4 19H33.6L29.9 24L25.6 19H21Z"
+    fill="#5044E5"
+  />
+
+  <defs>
+    <filter id="filter0_d_8593_1250" x="0" y="0" width="58.4766" height="58.48" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix"
+        values="0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 127 0"
+        result="hardAlpha"/>
+      <feOffset dy="3"/>
+      <feGaussianBlur stdDeviation="3"/>
+      <feColorMatrix type="matrix"
+        values="0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0.161 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_8593_1250"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_8593_1250" result="shape"/>
+    </filter>
+  </defs>
+</svg>
